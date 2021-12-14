@@ -10,4 +10,4 @@ def change_mac(interface, mac):
 interface = input("Enter which Interface you want to change the MAC : ")
 new_mac = input("Enter you new MAC address : ")
 
-change_mac(interface, mac)
+change_mac(interface, new_mac)
